@@ -1,0 +1,13 @@
+{
+  "id": "sajilck/malayalam-normaliser-tests",
+  "title": "Malayalam text normaliser: tests",
+  "code_file": "normaliser_kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": false,
+  "enable_internet": true,
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}
